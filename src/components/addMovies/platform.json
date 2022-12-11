@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "Netflix",
+        "logo" : null
+    },{
+        "id" : 2,
+        "name" : "HBO Go",
+        "logo" : null
+    },{
+        "id" : 3,
+        "name" : "BiliBili",
+        "logo" : null
+    },{
+        "id" : 4,
+        "name" : "Amazon Prime",
+        "logo" : null
+    },{
+        "id" : 5,
+        "name"  : "Apple TV",
+        "logo" : null
+    }
+]

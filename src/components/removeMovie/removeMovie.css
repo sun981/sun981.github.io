@@ -1,0 +1,29 @@
+.remove-form {
+    border: 2px red solid;
+    display: inline-block;
+    margin-top: 1rem;
+    background-color: #92B5D9;;
+}
+
+.img-container {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    margin: 2rem;
+}
+
+.info-container {
+    display: inline-block;
+}
+
+.info-container label {
+
+}
